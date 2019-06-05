@@ -1,0 +1,13 @@
+*.log
+*.cfg
+*.temp
+/build
+build
+/__pycache__
+__pycache__
+*.pyc
+/project.egg-info
+project.egg-info
+*.exe
+*.setting
+test.py
